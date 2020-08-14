@@ -1,4 +1,4 @@
-[![N|Solid](https://raw.githubusercontent.com/taufiqwahid/React.JS-Landing-Page/master/Landing%20Page.png?token=AJNJLGW4AOXMG4ZL2NFZE327E5S5O)](https://raw.githubusercontent.com/taufiqwahid/React.JS-Landing-Page/master/Landing%20Page.png?token=AJNJLGW4AOXMG4ZL2NFZE327E5S5O)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
