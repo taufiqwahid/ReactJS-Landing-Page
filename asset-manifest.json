@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Landing-Page/static/css/main.ed0b84c8.chunk.css",
+    "main.js": "/ReactJS-Landing-Page/static/js/main.c1e7e423.chunk.js",
+    "main.js.map": "/ReactJS-Landing-Page/static/js/main.c1e7e423.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Landing-Page/static/js/runtime-main.045a6b62.js",
+    "runtime-main.js.map": "/ReactJS-Landing-Page/static/js/runtime-main.045a6b62.js.map",
+    "static/js/2.1f3fba6a.chunk.js": "/ReactJS-Landing-Page/static/js/2.1f3fba6a.chunk.js",
+    "static/js/2.1f3fba6a.chunk.js.map": "/ReactJS-Landing-Page/static/js/2.1f3fba6a.chunk.js.map",
+    "index.html": "/ReactJS-Landing-Page/index.html",
+    "precache-manifest.99547f73997cdd608916cf477aaba47f.js": "/ReactJS-Landing-Page/precache-manifest.99547f73997cdd608916cf477aaba47f.js",
+    "service-worker.js": "/ReactJS-Landing-Page/service-worker.js",
+    "static/css/main.ed0b84c8.chunk.css.map": "/ReactJS-Landing-Page/static/css/main.ed0b84c8.chunk.css.map",
+    "static/js/2.1f3fba6a.chunk.js.LICENSE.txt": "/ReactJS-Landing-Page/static/js/2.1f3fba6a.chunk.js.LICENSE.txt",
+    "static/media/clients-01.svg": "/ReactJS-Landing-Page/static/media/clients-01.b9978201.svg",
+    "static/media/clients-02.svg": "/ReactJS-Landing-Page/static/media/clients-02.e54005bf.svg",
+    "static/media/clients-03.svg": "/ReactJS-Landing-Page/static/media/clients-03.bbaa54a0.svg",
+    "static/media/clients-04.svg": "/ReactJS-Landing-Page/static/media/clients-04.cdf0e500.svg",
+    "static/media/clients-05.svg": "/ReactJS-Landing-Page/static/media/clients-05.b913b150.svg",
+    "static/media/feature-tile-icon-01.svg": "/ReactJS-Landing-Page/static/media/feature-tile-icon-01.6dbc3613.svg",
+    "static/media/feature-tile-icon-02.svg": "/ReactJS-Landing-Page/static/media/feature-tile-icon-02.a02bfd4b.svg",
+    "static/media/feature-tile-icon-03.svg": "/ReactJS-Landing-Page/static/media/feature-tile-icon-03.91b1b862.svg",
+    "static/media/hero-image.png": "/ReactJS-Landing-Page/static/media/hero-image.68718083.png",
+    "static/media/style.css": "/ReactJS-Landing-Page/static/media/illustration-section-01.ad9b81a8.svg",
+    "static/media/logo.svg": "/ReactJS-Landing-Page/static/media/logo.f062941c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045a6b62.js",
+    "static/js/2.1f3fba6a.chunk.js",
+    "static/css/main.ed0b84c8.chunk.css",
+    "static/js/main.c1e7e423.chunk.js"
+  ]
+}
